@@ -67,7 +67,7 @@ author:
   instagram        : # Username
   lastfm           : # Username
   linkedin         : # Username
-  mastodon        : # URL
+  mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
   soundcloud       : # Username
@@ -143,7 +143,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : "open-graph.png"   # Social media default site image (lives in /images/)
+og_image                 : "og-image.png"   # Social media default site image (lives in /images/)
 og_description           :  # Social media default site image description
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
